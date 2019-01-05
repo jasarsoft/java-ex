@@ -1,0 +1,4 @@
+Cijena stana u ulici  Ulica Neka 12 je: 96000
+Cijena stana u ulici  Ulica Nepoznata 35 je: 288000
+Cijena stana u ulici  Neka Nova 42 je: 174000
+Cijena stana u ulici  Perina ulica 1 je: 32000
